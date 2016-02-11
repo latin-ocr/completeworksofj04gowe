@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./completeworksofj04gowe_0008.png"; bbox 0 0 1736 3006; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 530 1230 1283 1320">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 530 1230 1283 1320">
+     <span class='ocr_line' id='line_1_1' title="bbox 671 1230 1149 1263; baseline -0.002 -5"><span class='ocrx_word' id='word_1_1' title='bbox 671 1231 819 1258; x_wconf 84' lang='lat' dir='ltr'>HENRY</span> <span class='ocrx_word' id='word_1_2' title='bbox 845 1230 1036 1263; x_wconf 85' lang='lat' dir='ltr'>FROWDE,</span> <span class='ocrx_word' id='word_1_3' title='bbox 1064 1230 1149 1257; x_wconf 83' lang='lat' dir='ltr'>M.A.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 530 1295 1283 1320; baseline -0.004 -1"><span class='ocrx_word' id='word_1_4' title='bbox 530 1298 710 1320; x_wconf 70' lang='lat' dir='ltr'><strong>PURMSHER</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 731 1298 772 1319; x_wconf 84' lang='grc' dir='ltr'>το</span> <span class='ocrx_word' id='word_1_6' title='bbox 791 1298 861 1318; x_wconf 74' lang='lat' dir='ltr'>THE</span> <span class='ocrx_word' id='word_1_7' title='bbox 880 1297 1077 1319; x_wconf 63' lang='lat' dir='ltr'>UNWERSHY</span> <span class='ocrx_word' id='word_1_8' title='bbox 1095 1296 1135 1318; x_wconf 78' lang='lat' dir='ltr'>OF</span> <span class='ocrx_word' id='word_1_9' title='bbox 1152 1295 1283 1318; x_wconf 62' lang='lat' dir='ltr'>onom&gt;</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 778 1359 1025 1640">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 778 1359 1025 1640">
+     <span class='ocr_line' id='line_1_3' title="bbox 778 1359 1025 1640; baseline 0 1366"><span class='ocrx_word' id='word_1_10' title='bbox 778 1359 1025 1640; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 520 1676 1295 1709">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 520 1676 1295 1709">
+     <span class='ocr_line' id='line_1_4' title="bbox 520 1676 1295 1709; baseline -0.003 -7"><span class='ocrx_word' id='word_1_11' title='bbox 520 1677 688 1709; x_wconf 73' lang='lat' dir='ltr'>LONDON,</span> <span class='ocrx_word' id='word_1_12' title='bbox 718 1677 951 1708; x_wconf 75' lang='lat' dir='ltr'>EDINBURGH,</span> <span class='ocrx_word' id='word_1_13' title='bbox 977 1677 1056 1702; x_wconf 83' lang='lat' dir='ltr'>AND</span> <span class='ocrx_word' id='word_1_14' title='bbox 1082 1677 1168 1700; x_wconf 76' lang='lat' dir='ltr'>NEw</span> <span class='ocrx_word' id='word_1_15' title='bbox 1192 1676 1295 1701; x_wconf 76' lang='lat' dir='ltr'>YORK</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
